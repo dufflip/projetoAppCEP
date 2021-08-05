@@ -4,7 +4,6 @@ import axios from "axios";
 import isValidCep from "@brazilian-utils/is-valid-cep";
 
 // import Search from "./components/Search";
-
 const App = () => {
   // const [searchTerm, setSearchTerm] = useState("");
 
